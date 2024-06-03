@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" type="text/css" href="shark.css">
+    <style>
+        #container {
+            width: 1000px;
+            background: red; 
+        }
+
+        
+        #banner {
+            height: 100px;
+            background: blue; 
+        }
+
+        
+        #menu {
+            background: green; 
+            width: 200px;
+        }
+
+        #content {
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <div id="banner">
+            shark repellent
+        </div>
+        <div id="menu">
+            <ul>
+                <li>Product</li>
+                <li>Reviews</li>
+                <li>Contact</li>
+            </ul>
+        </div>
+        <div id="content">
+            placeholder
+        </div>
+    </div>
+</body>
+</html>
